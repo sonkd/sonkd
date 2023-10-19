@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**son-oh-yeah/son-oh-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sonkd/sonkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My website: https://son-oh-yeah.github.io
+- My website: https://sonkd.github.io
 - 📫 How to reach me: sonkdbk@gmail.com
