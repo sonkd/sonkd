@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My website: https://sonkd.github.io
+- My website: https://sonkd.com
 - 📫 How to reach me: sonkdbk@gmail.com
